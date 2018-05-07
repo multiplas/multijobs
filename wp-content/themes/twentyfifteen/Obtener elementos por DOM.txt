@@ -1,0 +1,1 @@
+recogidos = document.querySelectorAll('[itemprop="price"]');

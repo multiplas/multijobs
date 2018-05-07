@@ -1,0 +1,4 @@
+pdf    	-   	$_FILES['archivo']['type']=='application/pdf'
+doc	-	application/msword
+docx	-	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+png	-	image/png
